@@ -1,0 +1,9 @@
+1. removeFront does not work.
+    - Because test 7 and test 22 failed, I have concluded that removeFront doe not remove the
+      front element of the list. It doesn't remove anything.
+2. removeBack does not work.
+    - Because test 8 and test 20 failed, I have concluded that removeBack does not remove the
+      back element of the list. It doesn't remove anything.
+3. addBack does not work.
+    - Because test 16 failed and test 14 failed when using addBack, I have concluded that addBack
+      does not add an element to the end of the list. It acts like addFront.
